@@ -7,7 +7,7 @@ This repo contains the full source and instructions to run locally and deploy.
 ---
 
 ## Live demo
-[(Replace with your Netlify/Vercel URL after deployment)](https://harshportfoliofullstackassignment.netlify.app/)
+[(Live Demo Link (Netlify))](https://harshportfoliofullstackassignment.netlify.app/)
 
 ---
 
